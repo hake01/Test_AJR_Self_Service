@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-23T20:31:15 IST" name="Default suite" finished-at="2022-12-23T20:35:57 IST" duration-ms="282448">
+    <groups>
+    </groups>
+    <test started-at="2022-12-23T20:31:15 IST" name="Default test" finished-at="2022-12-23T20:35:57 IST" duration-ms="282448">
+      <class name="com.sn.ajr.jcr.JCR">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.sn.ajr.jcr.JCR@1e4f4a5c]" started-at="2022-12-23T20:31:15 IST" name="beforeTest" finished-at="2022-12-23T20:31:15 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="classname()[pri:0, instance:com.sn.ajr.jcr.JCR@1e4f4a5c]" started-at="2022-12-23T20:31:15 IST" name="classname" finished-at="2022-12-23T20:35:57 IST" duration-ms="282403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classname -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.sn.ajr.jcr.JCR@1e4f4a5c]" started-at="2022-12-23T20:35:57 IST" name="afterTest" finished-at="2022-12-23T20:35:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.sn.ajr.jcr.JCR -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
